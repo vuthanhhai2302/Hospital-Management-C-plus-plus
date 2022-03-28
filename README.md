@@ -1,1 +1,2 @@
-# Hospital-Management-.Net
+# Hospital-Management
+A C++ Project
