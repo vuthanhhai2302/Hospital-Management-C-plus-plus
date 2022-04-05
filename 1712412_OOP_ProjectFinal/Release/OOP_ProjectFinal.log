@@ -1,0 +1,38 @@
+﻿  Date.cpp
+  HospitalEmployee.cpp
+c:\users\hai\source\repos\oop_projectfinal\oop_projectfinal\hospitalemployee.cpp(39): warning C4129: 'd': unrecognized character escape sequence
+c:\users\hai\source\repos\oop_projectfinal\oop_projectfinal\hospitalemployee.cpp(54): warning C4129: 'd': unrecognized character escape sequence
+c:\users\hai\source\repos\oop_projectfinal\oop_projectfinal\hospitalemployee.cpp(81): warning C4129: 'd': unrecognized character escape sequence
+  main.cpp
+c:\users\hai\source\repos\oop_projectfinal\oop_projectfinal\main.cpp(42): warning C4101: 'choiceMain': unreferenced local variable
+  MedicalPrescription.cpp
+c:\users\hai\source\repos\oop_projectfinal\oop_projectfinal\medicalprescription.cpp(8): warning C4129: 'd': unrecognized character escape sequence
+c:\users\hai\source\repos\oop_projectfinal\oop_projectfinal\medicalprescription.cpp(39): warning C4101: 'numbOfMed': unreferenced local variable
+c:\users\hai\source\repos\oop_projectfinal\oop_projectfinal\medicalprescription.cpp(71): warning C4129: 'd': unrecognized character escape sequence
+c:\users\hai\source\repos\oop_projectfinal\oop_projectfinal\medicalprescription.cpp(90): warning C4129: 'd': unrecognized character escape sequence
+c:\users\hai\source\repos\oop_projectfinal\oop_projectfinal\medicalprescription.cpp(124): warning C4129: 'd': unrecognized character escape sequence
+  MedicalRecord.cpp
+c:\users\hai\source\repos\oop_projectfinal\oop_projectfinal\medicalrecord.cpp(16): warning C4129: 'd': unrecognized character escape sequence
+c:\users\hai\source\repos\oop_projectfinal\oop_projectfinal\medicalrecord.cpp(35): warning C4129: 'd': unrecognized character escape sequence
+c:\users\hai\source\repos\oop_projectfinal\oop_projectfinal\medicalrecord.cpp(84): warning C4129: 'd': unrecognized character escape sequence
+c:\users\hai\source\repos\oop_projectfinal\oop_projectfinal\medicalrecord.cpp(99): warning C4129: 'd': unrecognized character escape sequence
+c:\users\hai\source\repos\oop_projectfinal\oop_projectfinal\medicalrecord.cpp(127): warning C4129: 'd': unrecognized character escape sequence
+  Medicine.cpp
+c:\users\hai\source\repos\oop_projectfinal\oop_projectfinal\medicine.cpp(41): warning C4129: 'd': unrecognized character escape sequence
+c:\users\hai\source\repos\oop_projectfinal\oop_projectfinal\medicine.cpp(55): warning C4129: 'd': unrecognized character escape sequence
+c:\users\hai\source\repos\oop_projectfinal\oop_projectfinal\medicine.cpp(81): warning C4129: 'd': unrecognized character escape sequence
+c:\users\hai\source\repos\oop_projectfinal\oop_projectfinal\medicine.cpp(106): warning C4129: 'd': unrecognized character escape sequence
+c:\users\hai\source\repos\oop_projectfinal\oop_projectfinal\medicine.cpp(129): warning C4129: 'd': unrecognized character escape sequence
+  Menu.cpp
+  Patient.cpp
+c:\users\hai\source\repos\oop_projectfinal\oop_projectfinal\patient.cpp(34): warning C4129: 'd': unrecognized character escape sequence
+c:\users\hai\source\repos\oop_projectfinal\oop_projectfinal\patient.cpp(49): warning C4129: 'd': unrecognized character escape sequence
+c:\users\hai\source\repos\oop_projectfinal\oop_projectfinal\patient.cpp(76): warning C4129: 'd': unrecognized character escape sequence
+  Person.cpp
+  UserLogin.cpp
+c:\users\hai\source\repos\oop_projectfinal\oop_projectfinal\userlogin.cpp(19): warning C4129: 'd': unrecognized character escape sequence
+c:\users\hai\source\repos\oop_projectfinal\oop_projectfinal\userlogin.cpp(45): warning C4129: 'd': unrecognized character escape sequence
+  Generating code
+  All 285 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  OOP_ProjectFinal.vcxproj -> C:\Users\Hai\source\repos\OOP_ProjectFinal\Release\OOP_ProjectFinal.exe
