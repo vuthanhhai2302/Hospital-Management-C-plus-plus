@@ -1,3 +1,3 @@
 # Hospital-Management
 A C++ Project
-Basic OOP concepts, File processing in C++.
+Mainly about Basic OOP concepts, File processing in C++.
